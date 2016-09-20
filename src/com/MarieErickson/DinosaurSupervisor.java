@@ -7,8 +7,9 @@ public class DinosaurSupervisor
 	// write your code here
         Dinosaur t_rex = new Dinosaur();
         Dinosaur velociraptor = new Dinosaur();
+        Dinosaur tricerotops = new Dinosaur();
         t_rex.roar("T-Rex");
         velociraptor.roar("Velociraptor");
-        t_rex.roar();
+        tricerotops.roar();
     }
 }
