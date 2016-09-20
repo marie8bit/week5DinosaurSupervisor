@@ -10,6 +10,6 @@ public class DinosaurSupervisor
         Dinosaur tricerotops = new Dinosaur();
         t_rex.roar("T-Rex");
         velociraptor.roar("Velociraptor");
-        tricerotops.roar();
+        tricerotops.roar("Tricerotops");
     }
 }
